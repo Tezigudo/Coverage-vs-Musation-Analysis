@@ -1,0 +1,4 @@
+beautifulsoap4
+pandas
+matplotlib
+seaborn
